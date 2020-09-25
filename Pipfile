@@ -9,6 +9,7 @@ awsebcli = "*"
 [packages]
 Django = "*"
 pipenv-to-requirements = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.8"
