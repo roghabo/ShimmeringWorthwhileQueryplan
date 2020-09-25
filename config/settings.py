@@ -112,7 +112,7 @@ else:
             "PORT": "5432",
         }
     }
-}
+
 
 
 # Password validation
